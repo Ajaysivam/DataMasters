@@ -9,18 +9,18 @@
 
 ## README.md must consist of the following information:
 
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+#### Team Name - DataMasters
+#### Problem Statement - Data Analysis 
+#### Team Leader Email - rajpraveen1619@gmail.com
 
 ## A Brief of the Prototype:
   This section must include UML Diagrams and prototype description
   
 ## Tech Stack: 
-   List Down all technologies used to Build the prototype
+   Pandas , Tableau
    
 ## Step-by-Step Code Execution Instructions:
-  This Section must contain a set of instructions required to clone and run the prototype so that it can be tested and deeply analyzed
+  Initially we Preprocessed the given set of data using pandas in python, the we extracted the processed data and visualised it using tableau as dashboard and book.
   
 ## What I Learned:
-   Write about the biggest learning you had while developing the prototype
+   As a fresher we learnt about many new topics like preprocessing and data visualisation..we also learnt to visualise the data efficiently and it was a great experience for us
