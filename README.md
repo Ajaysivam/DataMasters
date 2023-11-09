@@ -14,7 +14,7 @@
 #### Team Leader Email - rajpraveen1619@gmail.com
 
 ## A Brief of the Prototype:
-  This section must include UML Diagrams and prototype description
+  We have visualised the Global Job lay off data using tableau
   
 ## Tech Stack: 
    Pandas , Tableau
